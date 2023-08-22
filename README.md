@@ -111,23 +111,29 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 </br>
+![single](https://github.com/Prethiveerajan/Image-Acquisition-from-Web-Cameraa/assets/94233064/717463a9-7f99-4da7-8fbb-7c760d2c7036)
+
 </br>
 
 
 ### ii) Display the video
 </br>
+![single](https://github.com/Prethiveerajan/Image-Acquisition-from-Web-Cameraa/assets/94233064/2bf28e77-2a81-424f-bc94-5a2e3204b06c)
+
 </br>
 
 
 ### iii) Display the video by resizing the window
 </br>
-</br>
+</br>![split1](https://github.com/Prethiveerajan/Image-Acquisition-from-Web-Cameraa/assets/94233064/de1aec02-422f-41e7-b8de-54d9c4c84f6c)
+
 
 
 
 ### iv) Rotate and display the video
 </br>
-</br>
+</br>![reverse](https://github.com/Prethiveerajan/Image-Acquisition-from-Web-Cameraa/assets/94233064/ba77d480-863c-420b-b601-95ecc3c90fae)
+
 
 
 
