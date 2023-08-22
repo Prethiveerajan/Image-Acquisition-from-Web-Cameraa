@@ -25,8 +25,8 @@ End the program
 
 ## Program:
 ``` Python
-### Developed By:
-### Register No:
+### Developed By:Prethiveerajan P
+### Register No:212221230079
 
 ## i) Write the frame as JPG file
 
